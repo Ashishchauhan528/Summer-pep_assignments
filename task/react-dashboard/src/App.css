@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background:#eef2ff;
+}
+
+.container{
+    width:90%;
+    margin:auto;
+}
+
+button{
+    cursor:pointer;
+}

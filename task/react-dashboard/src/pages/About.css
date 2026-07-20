@@ -1,0 +1,29 @@
+.about{
+    padding:60px;
+    text-align:center;
+}
+
+.about h1{
+    color:#2563eb;
+    margin-bottom:20px;
+}
+
+.about p{
+    font-size:18px;
+    margin-bottom:40px;
+}
+
+.features{
+    display:flex;
+    justify-content:center;
+    gap:30px;
+    flex-wrap:wrap;
+}
+
+.feature{
+    width:280px;
+    background:white;
+    padding:25px;
+    border-radius:10px;
+    box-shadow:0 5px 15px rgba(0,0,0,.15);
+}
